@@ -1,4 +1,4 @@
-| No.          | Pantalla      | Complejidad  | Admin |                                                                  
-| ------------ | ------------- | ------------ | 
-| Index/css,   | 
-| patrón,diseño|
+| No.           | Pantalla      | Complejidad  | Admin |                                                                  
+| ------------  | ------------- | ------------ | 
+| Index/css,    | 
+| patrón,diseño |
