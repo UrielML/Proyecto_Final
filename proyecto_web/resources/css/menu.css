@@ -1,0 +1,25 @@
+ul{
+                margin-left: 170px;
+            }
+            li{
+                float: left;
+                list-style: none;
+                margin: 12px;
+            }
+            a{
+                padding: 12px 40px;
+                text-decoration: none;
+                background: #222;
+                color:#fff;
+                font-size: 13px;
+                border-radius: 10px;
+                -webkit-border-radius: 10px;
+            }
+            .ventana_actual{
+                background: #7f0011;
+                color: #fff;
+            }
+            .resto_ventanas{
+                background: #E8001F;
+                color: #fff;
+            }
